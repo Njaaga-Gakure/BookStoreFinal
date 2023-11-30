@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\bin\Debug\net7.0\BookStoreSequel.exe
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\bin\Debug\net7.0\BookStoreSequel.deps.json
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\bin\Debug\net7.0\BookStoreSequel.runtimeconfig.json
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\bin\Debug\net7.0\BookStoreSequel.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\bin\Debug\net7.0\BookStoreSequel.pdb
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.AssemblyInfo.cs
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\refint\BookStoreSequel.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.pdb
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.genruntimeconfig.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\ref\BookStoreSequel.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\TheJitu-[TEACH2GIVE]\9-Async-Programming\db-module\BookStoreSequel\obj\Debug\net7.0\BookStoreSequel.csproj.CopyComplete

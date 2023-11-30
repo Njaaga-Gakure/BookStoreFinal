@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "BookName": "black blad",
+      "Description": "A book about a great rugby team",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "UserName": "brian",
+      "Password": "12345",
+      "Role": "admin",
+      "id": 1
+    }
+  ],
+  "orders": []
+}
